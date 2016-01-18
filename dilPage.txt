@@ -1,0 +1,1499 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The electronic Dictionary of the Irish Language (eDIL) is a digital dictionary of medieval Irish. It is based on the ROYAL IRISH ACADEMY’S Dictionary of the Irish Language based mainly on Old and Middle Irish materials (1913-1976) which covers the period c.700-c.1700. The current site contains revisions to c.4000 entries and further corrections and additions will be added in the coming years.">
+        <meta name="author" content="edil@qub.ac.uk">
+        <link rel="shortcut icon" type="image/x-icon"  href="http://dil.ie/img/favicon.ico" />
+
+        <title>eDIL - Irish Language Dictionary</title>
+
+        <link href="http://dil.ie/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://dil.ie/css/edil.css" rel="stylesheet">
+        <link href="http://dil.ie/css/font-awesome.min.css" rel="stylesheet">
+
+        <script src="http://dil.ie/js/vendor/jquery-1.11.1.min.js"></script>
+        <script src="http://dil.ie/js/vendor/bootstrap.min.js"></script>
+        <script src="http://dil.ie/js/vendor/jquery.transit.min.js"></script>
+
+    </head>
+    <body>
+
+		<nav class="navbar navbar-default">
+			<div class="container">
+			<div class="row">
+			    <div class="col-xs-12">
+			        <div class="navbar-header">
+			            <a href="http://dil.ie"><img class="navbar-logo" src="http://dil.ie/img/logo_small.png"></a>
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+			        </div>
+
+			        <div class="collapse navbar-collapse" id="navbar-menu">
+			            <ul class="nav nav-pills nav-justified">
+			                <li><a href="http://dil.ie">Home</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Search <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/search">Basic Search</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/advanced_search">Advanced Search</a></li>
+			                        
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/browse">Browse</a></li>
+			                <li><a href="http://dil.ie/bibliography">Bibliography</a></li>
+			                <li><a href="http://dil.ie/search_help">Help</a></li>
+			                <li>
+			                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" href="#">Archive <span class="caret"></span></a>
+			                    <ul class="dropdown-menu" role="menu">
+			                    	<li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/print_edition">Print Edition</a></li>
+			                        <li role="presentation"><a role="menuitem" tabindex="-1" href="http://dil.ie/supplement">Supplement</a></li>
+			                    </ul>
+			                </li>
+			                <li><a href="http://dil.ie/about">About</a></li>
+			                <li><a href="http://dil.ie/contact">Contact</a></li>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+		</nav>
+
+		<div class="container" id="content">
+        	
+<?xml version="1.0"?>
+<div class="row result"><div class="col-sm-3 result_headword"><h3 headword_id="978">1 aile</h3><span class="citation">Cite this: eDIL s.v. 1 aile or <a class="reference" href="978">dil.ie/978</a></span><br/><p class="small">Forms:
+      	      oile, eile, arch, aild, aile, aile, aill, aile, aill, aili, ailiu, ailiu, áili, aili, aili, aile, ailib, aile, aili, aile, aili, aili, a., n-aill, n-aile, éile, éle, aill, aili, ailiu, ailiu, aile, alaill, allail, alaill, alaili, alailiu, aili, alaaili, alaili, n-aile, allaili, aile, alaili, aili, alaile, holailiu, horaili, fulailiu, folaill, hualailiu, alaile, alaill, alaile, arele, lelele, alaill, aláil, araill, alaili, aláili, álaili, araili, áréli, alailiu, arailiu, alaili, aili, lialailiu, liala ailiu, aile, alailib, alaili, aréli, alaili, indala, indala, dondala, indala, indala, indala, all, AILE, ALAILE, arailiu, alailiu, alaile, (a)la, al(l)</p></div><div class="col-sm-9 result_content">
+ 
+
+  
+ 
+
+    <p class="result">In later lang. oile, eile <span class="trans">
+        <span class="def">other</span>, one of two, <span class="def">second</span>
+      </span>, pro-  
+nominal used as <span class="pos adj." style="color: #ff8000">adj.</span> and <span class="pos noun." style="color: #ff8000">noun.</span> Inflected as <span class="itype io,-i&#x101;">io, iā</span> -stem  
+except in <span class="case n">n</span>
+      <span class="case a">a</span>
+      <span class="number s.">s.</span> <span class="gen neut.">neut.</span> (aill, see below). 
+        <span><strong class="pop" style="color:blue" href="bibliography/Thurn.Gramm." title="eDIL Bibliography">Thurn. Gramm.</strong></span> §§ 486 
+ff.
+      , Hamp, <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;tudesCelt." title="eDIL Bibliography">Etudes Celt.</strong></span> ix 477
+       (aill, arch. aild). Old-Irish  
+forms. Stressed forms</p>
+  
+ 
+    
+      <p class="result">(<span class="edilb">a</span>) aile (as adj. follows noun; as subst.  
+always with article or nach). As <span class="pos adj." style="color: #ff8000">adj.</span> <span class="case n">n</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span> aile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12c46
+        .  
+
+        <span class="gen n.">n.</span> aill, 
+          9c3
+        . <span class="case a">a</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span> aile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9d31
+        . <span class="gen n.">n.</span> aill, 
+          13a1
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span> aili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span>  
+
+          30a2
+        . <span class="case d">d</span>
+        <span class="number s.">s.</span> ailiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 21a7
+        . ailiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 30b4
+        . <span class="case n">n</span>
+        <span class="number p.">p.</span> áili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12b1
+        .  
+
+        aili, 
+          22d14
+        . <span class="case a">a</span>
+        <span class="number p.">p.</span> aili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 28a6
+        . <span class="case g">g</span>
+        <span class="number p.">p.</span> aile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12b3
+        . <span class="case d">d</span>
+        <span class="number p.">p.</span> ailib,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 12b11
+        . <span class="gen Fem.">Fem.</span> <span class="case n">n</span>
+        <span class="number s.">s.</span> aile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 10d18
+        . <span class="case a">a</span>
+        <span class="number s.">s.</span> aili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 189a8
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span>  
+
+        aile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 188a12
+        . <span class="case n">n</span>
+        <span class="number p.">p.</span> aili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 22a3
+        . <span class="case a">a</span>
+        <span class="number p.">p.</span> aili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 191a2
+        .</p>
+     
+      <p class="result">
+        <span class="pos n" style="color: #ff8000">n</span> 
+As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="case n">n</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span> nach a.<span class="oRef">¤</span>
+          
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 20a10
+        . <span class="case n">n</span>
+        <span class="number s">s</span>
+        <span class="gen n.">n.</span> a n-aill
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span>  
+
+          4b24
+        . <span class="case a">a</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span> nach n-aile
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8a3
+        . éile, éle (influence of  
+
+        céile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thurn.Gramm." title="eDIL Bibliography">Thurn. Gramm.</strong></span> p. 308
+        ), 
+          6a15
+        , 
+          6c18
+        . <span class="case a">a</span>
+        <span class="number s">s</span>
+        <span class="gen n.">n.</span> na aill
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span>  
+
+          17c23
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span> nach aili
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17b28
+        . <span class="case d">d</span>
+        <span class="number s.">s.</span> nach ailiu
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 209b12
+        .   
+
+        <span class="case a">a</span>
+        <span class="number p.">p.</span> amal na heliu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 9b1
+        . 
+        
+          ailiu
+         gl. quos (nullos tepefacit sol), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 94b20
+        . <span class="gen Fem.">Fem.</span> <span class="case g">g</span>
+        <span class="number s.">s.</span> inna aile
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 15.42
+          
+(BCr.). </p>
+    
+   
+    
+      <p class="result">  
+(b) With double stem ala aile, alaile, with dissimilation  
+
+        araile (with stress on -ail-) (as adj. precedes noun; as subst.  
+does not take article or other proclitic, <span class="lbl">cf.</span> Ped. Ériu xv  
+188 ff.).</p>
+     
+      <p class="result">  
+As <span class="pos adj." style="color: #ff8000">adj.</span> <span class="case n">n</span>
+        <span class="number s">s</span>
+        <span class="gen n.">n.</span> 
+          alaill ṡain, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 6b24
+        . 
+          allail (<span class="lbl">recte</span> alaill, <span class="lbl">edd.</span>) 
+
+          <span class="frn ">pronomen</span>
+        , 
+          209b10
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span> 
+          alaili thríuin, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 96a4
+        . <span class="case d">d</span>
+        <span class="number s.">s.</span> 
+          alailiu
+chruth, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 98d1
+        . <span class="case n">n</span>
+        <span class="number p.">p.</span> alá aili aidme, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 89a9
+        . 
+          alaaili réta,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 111b5
+        . <span class="case a">a</span>
+        <span class="number p.">p.</span> 
+          alaili dliged, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 18c11
+        . <span class="case g">g</span>
+        <span class="number p.">p.</span> ala n-aile ndoine,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 54a21
+        .</p>
+     
+    
+      <p class="result">  
+
+        <span class="gen Fem.">Fem.</span> <span class="case a">a</span>
+        <span class="number s.">s.</span> 
+          allaili mbeasti, 
+          <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 446.1
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span> ala aile aidme,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 51c5
+        . <span class="case d">d</span>
+        <span class="number s.">s.</span> 
+          alaili tain gl. quando, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 222b2
+        . <span class="case n">n</span>
+        <span class="number p.">p.</span> ala aili
+interiecta, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 10a1
+        .</p>
+     
+      <p class="result">  
+When used with a prep. ending in a vowel alaile sometimes  
+drops its initial: holailiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 80a2
+        . horaili, 
+          2a6
+        . fulailiu
+(<span class="lbl">sic MS.</span>), 
+          102d2
+        . folaill, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 102.14
+        . But hualailiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span>  
+
+          40d17
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 25b12
+        . With la see substantival use <span class="lbl">infra</span>.</p>
+     
+      <p class="result">
+        <span class="pos n" style="color: #ff8000">n</span> 
+As <span class="pos subst." style="color: #ff8000">subst.</span> <span class="case n">n</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span> alaile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6b20
+        . <span class="case n">n</span>
+        <span class="number s">s</span>
+        <span class="gen n.">n.</span> alaill, 
+          7d11
+        . <span class="case a">a</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span>  
+
+        alaile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 5d15
+        . arele, 
+          9c19
+        . With la: lelele, 
+          16c24
+        . <span class="case a">a</span>
+        <span class="number s">s</span>
+        <span class="gen n.">n.</span>  
+
+        alaill, 
+          4c33
+        . aláil, 
+          12a10
+        . araill, 
+          23b21
+        . <span class="case g">g</span>
+        <span class="number s.">s.</span> alaili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c13
+        .  
+
+        aláili, 
+          12a34
+        . álaili, 
+          13a9
+        . araili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 10a10
+        . áréli, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13a5
+        .  
+
+        <span class="case d">d</span>
+        <span class="number s.">s.</span> alailiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 2a14
+        . arailiu, 
+          21a13
+        . <span class="case n">n</span>
+        <span class="number p.">p.</span> alaili, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 13a16
+        .  
+
+        ala aili
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 215a1
+        . <span class="case a">a</span>
+        <span class="number p.">p.</span> with la, lialailiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 14a4
+         (liaailiu,  
+MS.). liala ailiu, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 32b5
+        . <span class="case g">g</span>
+        <span class="number p.">p.</span> ala n-aile
+         (gl. reliquorum), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span>  
+
+          37a21
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 201b15
+        . <span class="case d">d</span>
+        <span class="number p.">p.</span> alailib, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25b13
+        . 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 208b8
+        . <span class="gen Fem.">Fem.</span>  
+
+        <span class="case a">a</span>
+        <span class="number s.">s.</span> fri alaili
+        , 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 202a4
+        . <span class="case d">d</span>
+        <span class="number s.">s.</span> aréli (see above), 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 8a7
+        , alaili,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 189a7
+          . 212b3
+        .</p>
+     
+      <p class="result">  
+In Bardic verse this form alliterates with words beginning  
+either with r- or vowels: líonmhar dá reic re-roile, 
+          <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span>   
+
+          61.3
+        . sgol i n-ucht ar-oile ag ól, 
+          103.25
+        .</p>
+    
+   
+    
+      <p class="result">  
+(<span class="edilb">c</span>) Unstressed forms (always adjectival preceding noun or  
+
+        aí, see below, and most usually with preceding article or  
+
+        cach). With article (both words <span class="itype indecl.">indecl.</span>) <span class="case n">n</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span> 
+          indala mmod,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 45b11
+        . <span class="case a">a</span>
+        <span class="number s">s</span>
+        <span class="gen m.">m.</span> 
+          indala fer, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c16
+        . <span class="case d">d</span>
+        <span class="number s.">s.</span> 
+          dondala lucht,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 16c20
+        . <span class="case n">n</span>
+        <span class="number s">s</span>
+        <span class="gen f.">f.</span> 
+          indala chlas, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 138d1
+        . <span class="case g">g</span>
+        <span class="number s">s</span>
+        <span class="gen f.">f.</span> 
+          indala rainne,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 74b7
+        . <span class="case a">a</span>
+        <span class="number s">s</span>
+        <span class="gen n.">n.</span> 
+          indala lestar, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c32
+        . With cach, usually  
+
+        cach la: cach la sel, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15d9
+        . cach le céin 
+          <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 19c1
+        . Without  
+art. somet. also all, see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 aile C I (a)">C I (a)</a></span> below.</p>
+      
+    
+      <p class="result">  
+
+        <span class="edilb">A</span>. The form AILE.</p>
+     
+      
+        
+          <p class="result">  
+
+            <span class="edilb">I</span> As <span class="pos adj." style="color: #ff8000">adj.</span> following its noun <span class="trans">
+              <span class="def">other</span>, <span class="def">second</span>:</span> frituidecht a.<span class="oRef">¤</span> 
+anísiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 21b11
+            . pronomen naill, 
+              197b17
+            . fogur na liter na.<span class="oRef">¤</span>
+            ,  
+
+            
+              4a8
+            . guidiu itge n-a.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Ep. 413
+            . anní nail <span class="ediltr">as much again</span>,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii1 180.177
+            . cethri fogaetha a.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/SR" title="eDIL Bibliography">SR</strong></span> 49
+            . immon michil 
+lasin crosfigill-so immon muiri lasind crosfigell na.<span class="oRef">¤</span> immasech
+`<span class="quote">with the next</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 137.z (§ 28)
+            . do nach raod aliu
+`<span class="quote">to any other matter</span>', 
+              143.30 (§ 43)
+            . isind le[i]th ailiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thGablach" title="eDIL Bibliography">Críth 
+Gabl.</strong></span> 591
+             (eliu, MS.). do c[h]ellaib elib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 62.20
+            . forsin 
+triur aili `<span class="quote">the other three</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xxiv 174.10
+            . aisceda imda eili,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> § 4 R
+            . Longínus in ainm ele, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 673
+            . a dhuine 
+dhiombuain eile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 27.3
+            . céd eili d'uaislib `<span class="quote">a hundred 
+other nobles</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 60
+            . ┐ ní eili <span class="ediltr">and furthermore</span>,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/HyMaine" title="eDIL Bibliography">Hy Maine</strong></span> 161.31
+            . beag oile as congnamh ré chois `<span class="quote">little else</span>',  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span> x 17
+            . aill with non-neut. noun: ro-lēcus-[s]a gaí 
+n-aill cucut-su,  
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">ScM²</strong></span> § 13
+            . issin láim n-aill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/MU2" title="eDIL Bibliography">MU²</strong></span> 543
+            . do 
+thuc bulli n-aill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC" title="eDIL Bibliography">TBC</strong></span> 1998
+            . fecht n-aile (n-aill), úair a.<span class="oRef">¤</span>
+              
+
+            <span class="ediltr">another time, on another occasion</span> see <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=fecht">fecht</a></span> and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=2 &#xFA;ar">2 úar</a></span>. <span class="trans">Of 
+future time, <span class="def">next</span>, <span class="def">forthcoming:</span>
+            </span> lathi n-and resint samḟuin a.<span class="oRef">¤</span> 
+cind bliadna, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3298
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/SerC" title="eDIL Bibliography">SC</strong></span> § 10
+            ). cosin caiscc naili `<span class="quote">until 
+the next Easter</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 132.17 (§ 12)
+            . nach (na) . . . a.<span class="oRef">¤</span> 
+(aill) <span class="ediltr">any other</span> . . . : nábat nacha arm aili `<span class="quote">let it not be any other 
+arms</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 11d14
+            . dochum nacha rainne a.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 188a12
+            .  
+
+            indtan noteigdis nach leth aili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 129.18 (§ 6)
+            . in 
+nacha reduibh ailib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> ii 106.9
+            . <span class="gen Masc.">Masc.</span> with neut. noun:  
+
+            huare nad fil na nert n-a.<span class="oRef">¤</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 29d5
+            .</p>
+        
+      
+     
+      
+        <p class="result">
+          <span class="pos n" style="color: #ff8000">n</span> 
+
+          <span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span>
+        </p>
+       
+        
+          <p class="result">(<span class="edilb">a</span>) <span class="trans">
+              <span class="def">another</span>, the <span class="def">other</span>, <span class="def">others</span> <span class="lbl">etc.</span>:</span> cuit inna aine 
+┐ inna a.<span class="oRef">¤</span>
+             <span class="ediltr">of the one and of the other</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 15.42
+             (Bcr.).  
+
+            amal na heliu `<span class="quote">like the others</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 9b2
+            . arus leth do fallaib an 
+aill do doebdadaib `<span class="quote">for half is due for the neglects, the other for the 
+claimants</span>,' 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 126.21 Comm.
+             mad a.<span class="oRef">¤</span> da lina beta olca folaid
+`<span class="quote">one of two parties</span>', 
+              ii 366.11
+            . ma a.<span class="oRef">¤</span> dá lína bes anfoltach,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'Don.</strong></span> 565
+             (
+              H. 3.17, 441
+            ). co ndearnadhsom in a.<span class="oRef">¤</span> 
+chédna <span class="ediltr">likewise</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TFrag." title="eDIL Bibliography">TFrag.</strong></span> 22.22
+            . mani tucad . . . ní din chéttad- 
+all ni bered a n-aill,  
+              <span><strong class="pop" style="color:blue" href="bibliography/Sc.M2" title="eDIL Bibliography">Sc.M²</strong></span> § 1
+            . ní fargaib bennachtain ┐ ní 
+thuc anaill (alali, <span class="lbl">v.l.</span>), 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> viii 52.25
+            . aroile . . . anaill <span class="ediltr">the one 
+. . . the other</span> (ref. to <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=leomuin">leomuin</a></span>), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 3399
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">b</span>) <span class="trans">period of two days:</span> a.<span class="oRef">¤</span> do mnaib . . . treisi do rig, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+i 78.15
+            . nat ṡasai aena tar a.<span class="oRef">¤</span>
+             `<span class="quote">that one day should not be extend- 
+ed beyond two days</span>', 
+              120.18
+            . athgabail a.<span class="oRef">¤</span> itir uin ┐ treise 
+rosmidir Sencha, 
+              126.11
+            . cach athgabail a.<span class="oRef">¤</span>
+            , 
+              144.24
+             .i. for ata 
+anad naili ┐ apad aili, 
+              146.21 Comm.
+             is for dail na haili,  
+
+            
+              146.12 Comm.
+             athgabail a.<span class="oRef">¤</span> do ingin im comorbus a mathar,  
+
+            
+              146.y
+             .i. ar ata anadh naili, 
+              148.3. Comm.
+             a.<span class="oRef">¤</span> déc <span class="ediltr">space of 
+twelve days</span> (<span class="lbl">cf.</span> a.<span class="oRef">¤</span> déc <span class="trans">one <span class="def">twelfth</span>
+            </span>, (g) <span class="lbl">infra</span>): a.<span class="oRef">¤</span> do mnaib, a.<span class="oRef">¤</span> 
+dec doib im roe, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 78.15
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">c</span>) Frequ. a n-aill <span class="trans">
+              <span class="def">something</span> <span class="def">else</span>, <span class="def">anything</span> <span class="def">else</span>:</span> nimbe 
+anaild arbera bith `<span class="quote">he has nothing else that he may eat</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. 
+Tall.</strong></span> 146.16 (§ 50)
+            . ind lethbairgin ┐ ind cethramtu nó 
+anaild `<span class="quote">the half loaf and the quarter or other quantity</span>, 
+              151.z 
+(§ 63)
+            , ní fogbat merdrecha Ulad a n-aill acht foraim én 
+dóib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3254
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/SerC" title="eDIL Bibliography">SC</strong></span> § 5
+            ). it é do theoir ríagla / nítroib anaill 
+bas diliu `<span class="quote">have thou naught else dearer</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> i 194 § 7
+            . in fil 
+anaill? ol Grigoir `<span class="quote">is there anything else</span>?' 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> iii 30.21
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">d</span>) Hence with ocus, <span class="lbl">etc.</span> <span class="trans">
+              <span class="def">furthermore</span>:</span>
+             ┐ anaill forácbus[s]a 
+. . ., 
+              <span><strong class="pop" style="color:blue" href="bibliography/LL" title="eDIL Bibliography">LL</strong></span> 279a7
+            . ┐ anaill béus, iarfaig-siu <span class="ediltr">and furthermore, ask</span>  
+. . ., 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC" title="eDIL Bibliography">TBC</strong></span> 1920
+            . ┐ dano a n-aill and úair ni chesend nech,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 2654
+            . ┐ anaill niro tagaill . . ., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 2786
+            . <span class="lbl">Cf.</span> similar use  
+of araill: et araill aile dana béus, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC" title="eDIL Bibliography">TBC</strong></span> 106
+            . ┐ araill and, 
+dano, . . . ní fil rígain . . ., 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 4015
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/SerC" title="eDIL Bibliography">SC</strong></span> § 46
+            ). araill ele 
+bheós ro leth ainm . . ., 
+              <span><strong class="pop" style="color:blue" href="bibliography/FM" title="eDIL Bibliography">FM</strong></span> v 1858.z
+            . ┐ araill ele nir bó 
+siodhach . . ., 
+              vi 2052.10
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">e</span>) Uninflected aill . . . aill <span class="trans">
+              <span class="def">one . . . another</span>, <span class="def">some . . . others</span>
+            </span>  
+(not found in O. Ir. Glosses): imrordus in rígraid / . . . / aill 
+úas laithib lígdaib / aill fo díanaib déraib <span class="ediltr">some . . . others</span>,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> Prol. 23
+            . aill fir mair . . . / aill ingene húage `<span class="quote">one of a 
+mighty man . . . another of a virginal maiden</span>', 
+              June 5
+            . áill 
+fri cumaid . . . aill ele fri teichead (of persons), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Alex." title="eDIL Bibliography">Alex.</strong></span> 309
+            .  
+
+            .lll. carpdech . . . aill bruitt budi aill bruit deirg `<span class="quote">some in 
+yellow mantles others in red mantles</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xiv 412.8
+            . <span class="trans">Hence 
+
+              <span class="pos adverbial" style="color: #ff8000">adverbial</span>ly <span class="def">partly . . . partly</span>:</span> aill is tóla catha crūach / aill is 
+cōra cacha crích, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 110 § 30
+            . go ruc in ingen leis aill ar 
+áis aill ar égin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xi 46.13
+            . <span class="lbl">Cf.</span> aill .i. aonfecht .. . <span class="frn ">ut est</span> 
+aill torla tres tochuired, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODav." title="eDIL Bibliography">O'Dav.</strong></span> 34
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiii 15.11
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">f</span>) With nach <span class="trans">
+              <span class="def">any</span> <span class="def">other</span>:</span> arna arroímatsom nach na.<span class="oRef">¤</span>
+             `<span class="quote">lest 
+they should receive any one else</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 14d37
+            . cen acaldaim 
+nach aili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 153b7
+            . cen acomol naich aili do `<span class="quote">without joining 
+any other to it</span>', 
+              197b17
+            . nib écen na aill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 22d12
+            . ni 
+gessid na aill act búaid precepte, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 26a34
+            . ní epur na haill
+`<span class="quote">I say nothing more</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> p. 217 <span class="lbl">marg. sup.</span>
+             (Thes. ii xxii).  
+
+            in fail na aill adcota[r] dam,  
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip2" title="eDIL Bibliography">Trip.²</strong></span> 1323
+            . cona bía cuit do 
+nach ailiu i nHére, 
+              2766
+            . do-bérad naill ( = na aill) <span class="ediltr">would 
+give something else</span>,  
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 276
+            . With partitive DI <span class="trans">something 
+else of:</span> asbéram na aill diar ṅgnímaib, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 17c23
+            . in fuil 
+anaill d'ingantaib air? 
+              <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 2983
+            . <span class="lbl">Cf.</span> aill do buadaib Duind 
+C. andso <span class="ediltr">something of the triumphs</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC" title="eDIL Bibliography">TBC</strong></span> 1529
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">g</span>) <span class="trans">In <span class="def">numerals</span> (<span class="def">fractions</span>).</span> a.<span class="oRef">¤</span> déac <span class="trans">one <span class="def">twelfth</span>:</span> oile dég <span class="gen f.">f.</span>,   
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 3
+            . oil a dég (oil dhég <span class="lbl">v.l.</span>) lochdach, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. § 14
+            . 
+            aili deac brotto `<span class="quote">the twelfth part of a second</span>',  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 13.29
+             (BCr.). erpais Patraic aili deac Erend dó <span class="ediltr">the 
+twelfth part of Ireland</span>,  
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip2" title="eDIL Bibliography">Trip.²</strong></span> 911
+            . `a.<span class="oRef">¤</span> dhéc <span class="trans">the <span class="def">twelfth</span> part, 
+the Brehon's <span class="def">fee</span>
+            </span>. Anglicé allayéag,' 
+              <span><strong class="pop" style="color:blue" href="bibliography/ODon.Suppl." title="eDIL Bibliography">O'Don. Suppl.</strong></span>
+             ni uil 
+aile déc dosomh ┐ atá éiric a gubreite fairsium, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OD." title="eDIL Bibliography">O'D.</strong></span> 536
+              
+(
+              H. 3.17, 432
+            ). da tecarthar ni da folaid cruid on breithemain, 
+no ailedec, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> i 234.17 Comm.
+             diablad na aile dec, 
+              234.18 
+Comm.
+             no co thormaigi fa geall co roib aile dec, 
+              v 252.20 
+Comm.
+             log a breithemnuis, aile dec, 
+              212.22 Comm.
+             Perh.  
+also in: ni bhía an oile dēgsi am díaigh / nach foighe Ó 
+Bríain d'éicsi úaim, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IGT" title="eDIL Bibliography">IGT</strong></span> Decl. ex. 216
+            . barr na ngēg uile re 
+n-idnaibh / uile dég gun fidhbaidh ortt (lochtach), 
+              ex. 225
+            .  
+
+            <span class="lbl">Cf.</span> Kl. enair for dardain ail uathaid fuirre `<span class="quote">the second day of the 
+moon thereon</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 176.27
+             (Tig.). 
+              284.2
+            . For ail dec
+
+            
+              35.9
+             Stokes suggests reading ail uathaid.</p>
+        
+      
+    
+   
+    
+      <p class="result">  
+
+        <span class="edilb">B</span>. The form ALAILE <span class="lbl">etc.</span> </p>
+     
+      
+        <p class="result">  
+
+          <span class="edilb">I</span> As <span class="pos adj." style="color: #ff8000">adj.</span>
+        </p>
+       
+        
+          <p class="result">(<span class="edilb">a</span>) <span class="trans">
+              <span class="def">other</span>:</span> <span class="ediltr">aliud pronomen</span> .i. is allail (<span class="lbl">recte</span> alaill, 
+
+              <span class="lbl">edd.</span>) <span class="frn ">pronomen</span>
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 209b10
+            . cenn cridi ┐ alaaili réta `<span class="quote">and 
+other things</span>', 
+              111b5
+            . sech alaili dliged ┐ indliuchtu `<span class="quote">apart from 
+other sayings and meanings</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 18c11
+            . imtech[t] Boinde . . . 
+┐ alanaile n-aband, 
+              <span><strong class="pop" style="color:blue" href="bibliography/AU" title="eDIL Bibliography">AU</strong></span> i 308. 11
+            , <span class="lbl">cf.</span> 
+              330.4
+            ,  
+              374.4
+            . In later lang.  
+neut. form somet. used after noun irrespective of gender: leth 
+in moige . . . al-leth allaill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xi 446.52
+            . don taeb araill,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErcuil" title="eDIL Bibliography">St. Ercuil</strong></span> 782
+            . isin luing araill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 2969
+            . isind láim anaill,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC" title="eDIL Bibliography">TBC</strong></span> 1719
+            . Note also: adhaigh n-aill n-aile <span class="ediltr">another night</span>,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/BNn&#xC9;" title="eDIL Bibliography">BNnÉ</strong></span> 324 § 38
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">b</span>) <span class="trans">Usually <span class="def">some</span>, a <span class="def">certain</span>
+            </span> (gl. quidam, aliquis): hualailiu 
+chlausul gl. uelut in clausula, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 40d17
+            . holailiu lon gl.  
+
+            <span class="ediltr">quodam adipe</span>, 
+              80a2
+            . ainm alaili thríuin `<span class="quote">name of a certain 
+hero</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 96a4
+            . alaill ṡain, 
+              6b24
+            . hualailiu mud gl. quodammodo,  
+
+            
+              25b12
+            . con alailiu fogoir (<span class="lbl">leg.</span> fogur, edd.) gl. aliquo `<span class="quote">with 
+some sound</span>', 
+              39a2
+            . alaili tain gl. quando, 
+              222b1a
+            . ac gūmāidim 
+ala naile nairec ninganta <span class="ediltr">falsely boasting of various wonderful 
+inventions</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 825
+            . cornan alaili cuislendach, `<span class="quote">a certain 
+piper Cornan</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 131.23 (§ 10)
+            . alaili fáith marb,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip2" title="eDIL Bibliography">Trip.²</strong></span> 1395
+            . di araile anmcharait, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Arch." title="eDIL Bibliography">Arch.</strong></span> iii 5.3
+            . aroile fer 
+angid, 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span> 818
+            . doní . . . araile gaitt irisech `<span class="quote">she commits a 
+certain pious theft</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/BColm." title="eDIL Bibliography">BColm.</strong></span> 84.10
+            . i n-araile domnuch, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span>  
+
+              iii 33.15
+            . ro indsaig araile carruic . . . ┐ ros buail, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Grail" title="eDIL Bibliography">Grail</strong></span> 1435
+            .  
+
+            in araile locc i lLaighis `<span class="quote">at a certain place</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/FM" title="eDIL Bibliography">FM</strong></span> ii 1066.3
+            . <span class="lbl">Cf.</span>  
+
+            co aroile mainistir ecin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> x 187.4
+            .</p>
+        
+      
+     
+      
+        <p class="result">
+          <span class="pos n" style="color: #ff8000">n</span> 
+
+          <span class="edilb">II</span> As <span class="pos subst." style="color: #ff8000">subst.</span>
+        </p>
+       
+      
+        
+          <p class="result">(<span class="edilb">a</span>) <span class="trans">
+              <span class="def">another</span>, the <span class="def">other</span>:</span> ni ferr nech alailiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span>  
+
+              2a16
+            . ni áir do neuch molad alaili, 
+              16a24
+            . is coitchen do 
+cechtar de ainm alaili `<span class="quote">the name of each is common to both</span>',  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 14d12
+            . intí diib bes tresa orcaid alaile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 19d6
+            . tar cenn 
+alanaile gl. aliorumuice, 
+              95d9
+            . 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 201b15
+            . cenmathá dobrethir 
+┐ alaaili `<span class="quote">except the adverb and other (parts of speech</span>)', 
+              71b17
+            .  
+
+            muidit secht catha ren Osseirgé for na Déise . . . asberat araile is 
+tricha cath <span class="ediltr">others say</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> iii 138.102
+            . in foirend is craib- 
+dige araile `<span class="quote">the folk who are more believing than the rest</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/PH" title="eDIL Bibliography">PH</strong></span>  
+
+              6363
+            . coná baí aithgne neich sech alaile díb, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 271
+            .  
+
+            cach gabal tra issuidiu araile hisesam `<span class="quote">every other division is 
+sung sitting, the next standing</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 140.4 (§ 31)
+            . gach 
+clas ro claideadh do línadh do arbaim alaill do imbim <span class="ediltr">the 
+furrows to be filled alternately with corn and butter</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 
+98.14 Comm.
+             drécht diib i nAidniu, araill diib oc Dubcech- 
+air, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 305.30
+            . Hence alaile . . . alaile <span class="lbl">etc.</span> <span class="trans">(<i>the</i>) one . . . 
+the <span class="def">other</span>, <span class="def">another</span>:</span> biit alaili and rofinnatar a pecte rosíu (<span class="lbl">sic</span>) 
+docói grád forru alaili is iarum . . ., 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 29a28
+            . alaaili diib 
+hi remthechtas . . . alaaili dano it coitchena eter remthechtas,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 215a1
+            . Later araill . . . de is used of all genders: comérgit 
+Ulaid araill díb . . . araill, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5017
+            . <span class="lbl">Cf.</span> a dá grúad . . . co 
+ndeirgi fola laíg ┐ araill eile co solusgili sneachta,  
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span>  
+
+              38
+            . Also when first part of phrase contains ind ala (<span class="lbl">infra</span>).</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">b</span>) <span class="trans">With idea of mutual <span class="def">action</span> <span class="def">each</span> <span class="def">other</span>:</span> con rochra 
+cách a.<span class="oRef">¤</span>
+             <span class="lbl">lit.</span> <span class="ediltr">that each may love the other</span> (= <span class="frn ">that all may love 
+each other</span>), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 6d1
+            . rosbennach cách dib elathain aroile,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/F&#xE9;l." title="eDIL Bibliography">Fél.</strong></span> 4.20
+            . Eogan . . .┐ Oed . . . do marbad aroili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ann.Conn." title="eDIL Bibliography">Ann. Conn.</strong></span>  
+
+              1340.12
+            . ar bruinnib ┐ ochtaip aroile ┐ a chēile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span>, 
+80.17
+            . Frequ. with prepp.: combad imned for araill domsa
+
+            <span class="ediltr">so that it should be trouble upon trouble for me</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 23b21
+            .  
+
+            <span class="lbl">Cf.</span> in peccath for arele, 
+              9c19
+            . is ball cách dialailiu, 
+              5d4
+            .  
+
+            ar a ndig cechtar dīb sech anaile (araile <span class="lbl">v.l.</span>) <span class="ediltr">so that they can 
+get past each other</span> (of two chariots), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1082 (96.11)
+            .  
+
+            ni dernai nechtar n-ai olc fri araili, 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBFr." title="eDIL Bibliography">TBFr.</strong></span> 24.3
+             = fria chéile,  
+
+            
+              420
+            . ón tráth co roili,  
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 1251
+            . lán ón orsain go ar-oile / 
+an teach . . ., 
+              <span><strong class="pop" style="color:blue" href="bibliography/DD&#xE1;na" title="eDIL Bibliography">DDána</strong></span> 85.37
+            . casmhail a rún dá-roile, 
+              92.6
+            .  
+
+            an ro loitseat Goill ┐ Geraltaig imo roile (roile) isan tansa
+`<span class="quote">the injuries mutually done upon each other</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/FM" title="eDIL Bibliography">FM</strong></span> v 1734.15
+            .  
+
+            dīss derbrāthor dieroile `<span class="quote">two . . . brothers</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 124.1
+            .  
+?asrean a ceile agh fo laill do `<span class="quote">his neighbour shall give him 
+another calf</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 102.14 Comm.
+            
+          </p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">c</span>) <span class="trans">
+              <span class="def">somebody</span>, <span class="def">something</span>; a certain <span class="def">person</span> or<span class="def"> thing</span>
+            </span>. In <span class="number sg.">sg.</span>:  
+
+            araill tra cairigedarsom <span class="ediltr">there is a certain thing</span> (?) (`<span class="quote">there are 
+other things now which he blames</span>'), 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 25b9
+            . So also: [con]- 
+secha alaill indib (`<span class="quote">he corrects another thing in them</span>'), 
+              26c1
+            .  
+
+            aroile do lāmhoip S. Niclās `<span class="quote">one of the hands</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Fl.Earls" title="eDIL Bibliography">Fl. Earls</strong></span> 80.20
+            .  
+
+            ba ingnad liasna Fomoire alaill tarfas doib isin cath <span class="ediltr">a certain 
+thing</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xii 92 § 122
+            . atpert aroile fris `<span class="quote">a certain man</span>',  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/StairErcuil" title="eDIL Bibliography">St. Ercuil</strong></span> 1449
+            . Note also: ara ara bélaib isin charput sin 
+araile forseng fánfota forbrec <span class="ediltr">a charioteer in front of him . . . 
+and he was</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 9274
+            . In <span class="number pl.">pl.</span>: is sí cétbaid alanaile `<span class="quote">this is the 
+opinion of some</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 36a1
+            . circunflex la grecu for alailib diib,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 208b8
+            . With DI: araill d'feraib Midi `<span class="quote">some of the men of M.</span>',  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span> xviii 23.31
+            . do deachaidh fein cona mac . . . ┐ ar oile dia 
+mhuintir innte, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.</strong></span> 242.26
+            . d'foraithmet araill dona 
+neithibh remraiti, 
+              272.6
+            . araill d'áes na cemenn sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/CCath." title="eDIL Bibliography">CCath.</strong></span>  
+
+              86
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">d</span>) As <span class="pos adv." style="color: #ff8000">adv.</span> (<span class="case d">d</span>
+            <span class="number s">s</span>
+            <span class="gen n.">n.</span>) arailiu `<span class="quote">otherwise</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 21a13
+             (intro-  
+ducing an alternative explanation); <span class="lbl">cf.</span> alailiu chruth gl.  
+
+            aliter, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 98d1
+            . alailiu, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 9a23
+             (see Bergin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xiv 29
+            ;  
+xvii 1; Pedersen, 
+              <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> xv 188
+            ). alaile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iii 59.2
+            . araili 
+ 
+.i. gne eile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 68.3
+            .  Perh. also in 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC2" title="eDIL Bibliography">TBC²</strong></span> 1044
+            , 
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC" title="eDIL Bibliography">TBC</strong></span> 1833 ff.
+             (reading ... cadān co leith. Allaile (alailiu LU dia tonda <span class="lbl">etc.</span>
+             .</p>
+        
+      
+    
+   
+    
+      <p class="result">   
+
+        <span class="edilb">C</span>. The form (a)la, al(l).</p>
+     
+      
+        <p class="result">  
+
+          <span class="edilb">I</span> As <span class="pos adj." style="color: #ff8000">adj.</span>
+        </p>
+       
+      
+        
+          <p class="result">(<span class="edilb">a</span>) <span class="trans">
+              <span class="def">other</span>, <i>one of two</i>, <span class="def">second</span>
+            </span> (in this use a `composit-  
+ional prefix', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thurn.Gramm." title="eDIL Bibliography">Thurn. Gramm.</strong></span> § 394
+            ): al-anman `<span class="quote">other names</span>',  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 48c34
+            . all-aidchi <span class="ediltr">on another night</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/IT" title="eDIL Bibliography">IT</strong></span> ii2 194.21
+            . ala- 
+chéill in sin, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 313.29
+            . Morc .i. ala flaith na Fomoire,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/Leb.Gab.i" title="eDIL Bibliography">Leb. Gab.</strong></span> 80.30
+            . béra cend ríg alathúaithi lat,  
+              <span><strong class="pop" style="color:blue" href="bibliography/BDD2" title="eDIL Bibliography">BDD²</strong></span> 727
+            .  
+
+            fria lesa alabrugh <span class="ediltr">of other territories</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OC." title="eDIL Bibliography">O'C.</strong></span> 454
+             (
+              H. 3.18, 242a
+              
+            ).  
+
+            li ala lécuinn Saul `<span class="quote">by one of S.'s cheeks</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 55c1
+            . ala n-or di 
+i teg, a n-aill fri sīn, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 35
+             (aurso). ala thred dub alaili 
+find, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> i 57 § 58
+            . tēora blaī būirig . . . blaī mescae . . . 
+alablaī dúnaid la túatha téchtai tecraiter <span class="ediltr">the second exemption</span>,  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xi 83.1
+            . cath Ocha alachath `<span class="quote">the second battle</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/RC" title="eDIL Bibliography">RC</strong></span>  
+
+              xiii 54.10
+            . ala-chor <span class="ediltr">second contract</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> ii 274.z
+            . mád ala 
+feacht iar mbrethaib forru `<span class="quote">for the second time</span>', 
+              66.16
+            . See  
+also under compds. and <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 al">1 al</a></span>. See also under <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=allabrig">allabrig</a></span>.</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">b</span>) With article ind ala <span class="ediltr">one of two</span>, (<span class="ediltr">the) one</span> (. . . <span class="ediltr">the other</span>)   
+(see also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 aile B II (a)">B II (a)</a></span> <span class="lbl">supra</span>): dotóeth indala fiacail airthir a chinn  
+`<span class="quote">one of the two teeth</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 248.9
+            . arambé indala rann 
+cen diall `<span class="quote">that one of the two parts be undeclined</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 74b6
+            .  
+
+            ind ala c. gl. praetermisit unam c (<span class="lbl">i.e.</span> by writing <span class="frn ">hoc</span> for <span class="frn ">hocc</span>),  
+
+            
+              205b5
+            . co lluid tré scíath n-ete indala heóin <span class="ediltr">one of the two 
+birds</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 3282
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/SerC" title="eDIL Bibliography">SC</strong></span> § 7
+            ). doroigu ind ala fer . . . <span class="frn ">et</span> romiscsig- 
+estar alaile, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4c16
+            . is léir dorigni indala lestar is dínnimu 
+dongní alaill, 
+              4c32-33
+            . ni coir dídnad dondala lucht <span class="frn ">et</span> 
+troscud dond lucht ailiu, 
+              16c20
+            . īadais andala (indara, LU)  
+
+            sūil . . . asoilg alaile,  
+              <span><strong class="pop" style="color:blue" href="bibliography/TBC2" title="eDIL Bibliography">TBC²</strong></span> 394
+            . benaid . . . Mac Cecht a chend 
+dondala fir . . . ro boí in fer aile oc élúd, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 7942
+            . Loch nE. 
+dindala leith di ┐ Slíab C. dind leith ailiu,  
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip2" title="eDIL Bibliography">Trip.²</strong></span> 1957
+            .  
+Later indara: indara láim dó fri ubull bragat in chon. dobeir 
+araile fria chúl <span class="ediltr">one of his hands</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span> 5012
+            . indara fecht . . . 
+canait ceol . . . in fecht n-aill contúaset fri ceól muintire 
+nime, 
+              1978
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/FA" title="eDIL Bibliography">FA</strong></span> 5
+            ). is hé indara fer . . . ró an . . . Donnmal int 
+aili,  
+              <span><strong class="pop" style="color:blue" href="bibliography/Trip2" title="eDIL Bibliography">Trip.²</strong></span> 1521
+            .</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">c</span>) ind ala <span class="trans">the <span class="def">second</span>
+            </span> (<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=t&#xE1;naiste">tánaiste</a></span>): cengsat siar dind ara 
+chur `<span class="quote">for the second time</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Metr.Dinds." title="eDIL Bibliography">Met. Dinds.</strong></span> iii 4.33
+            . isin dara cét 
+lá deidenach don ré `<span class="quote">on the second last day of the term</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> 
+iv 136.1 Comm.
+             Hence in compd. numerals: ala rann deac
+`<span class="quote">one twelfth</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thes." title="eDIL Bibliography">Thes.</strong></span> ii 13.29
+             (BCr.). issed indala nainmm déc
+
+            <span class="ediltr">the twelfth name</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Thr.Ir.Gl." title="eDIL Bibliography">Three Ir. Gl.</strong></span> 25.9
+             = indara hainm, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. 
+Y</strong></span> 750
+            . indala descipul lxx at <span class="ediltr">the seventy-second disciple</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span>  
+
+              i 20.2 Comm.
+             fir errainne co alasét sesed <span class="ediltr">with sixty-two `<span class="frn ">sét</span>s'</span>  
+
+            
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xii 361.21
+            . ?torad cach trethain ala cairrge, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> v
+              
+
+            
+              484.2
+             (Comm. takes as all <span class="ediltr">beyond</span>). <span class="lbl">Cf.</span> co treathan ala cairge 
+no ala caire, 
+              <span><strong class="pop" style="color:blue" href="bibliography/OC." title="eDIL Bibliography">O'C.</strong></span> 20
+             (
+              H. 3.18, 9a
+              
+            ).</p>
+        
+       
+        
+          <p class="result">  
+(<span class="edilb">d</span>) cach (a)la <span class="trans">
+              <span class="def">every</span> <span class="def">other</span>, <i>every</i> <span class="def">second</span>:</span> cach la céin . . . in 
+céin naili <span class="ediltr">sometimes . . . sometimes</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Ml" title="eDIL Bibliography">Ml.</strong></span> 19b1, 3
+            . cachlacein
+`<span class="quote">alternately</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 146.29 (§ 52)
+            . is i fescur cachlacēin / 
+dlegar dīdnad dōib <span class="ediltr">they are entitled to a meal on alternate days 
+at vesper-time</span> (of fasting regulations), 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xiii 29.14
+            . cach la 
+sel dún for imrádud dé in sel aile for precept `<span class="quote">at one time 
+meditating on God, at another time preaching</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 15d9
+            .  
+
+            ammarbad cach la sel iarum do a mbeogud indtale dia 
+marbad `<span class="quote">he continues alternately to mortify and revive them 
+from their dying state</span>', 
+              <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 147.16 (§ 52)
+            . bó cona 
+timthuch cech la blíadnai . . . colp[d]ach ḟirenn lee in mblíad- 
+nai n-aili <span class="ediltr">every second year</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thGablach" title="eDIL Bibliography">Críth Gabl.</strong></span> 266
+            . cach alablīa- 
+[dain] <span class="ediltr">every second year</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1082
+             (
+              <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span> iv 96.16
+            ).  
+
+            cach ara bliadain, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv 140.29 Comm.
+             druinech cechla 
+bean / crecōir cechla fer, 
+              <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> ix 170.17
+            . ate cuir treineacha la 
+Feine cach la fear dia urgaire, alaili dia forngaire, 
+              <span><strong class="pop" style="color:blue" href="bibliography/Laws" title="eDIL Bibliography">Laws</strong></span> iv
+              
+
+            
+              54.13
+            . gach re n-am <span class="ediltr">alternately</span>, 
+              <span><strong class="pop" style="color:blue" href="bibliography/D&#xE1;nD&#xE9;" title="eDIL Bibliography">Dán Dé</strong></span>  v 41
+            .</p>
+        
+      
+     
+      
+        <p class="result">  
+
+          <span class="edilb">II</span>
+          <span class="pos n" style="color: #ff8000">n</span> As <span class="pos subst." style="color: #ff8000">subst.</span> indala n-aí (invariable) <span class="trans">
+            <span class="def">one</span> of the two:</span> is 
+dochu ind ala nái oldaas a n-aill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Wb." title="eDIL Bibliography">Wb.</strong></span> 4b24
+          . togu ind ala n-ái 
+. . . damnad alaili `<span class="quote">to choose one of the twain . . . to condem 
+the other</span>', 
+            4c13
+          . ci atbela ind ala n-ái ni epil alaill, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 30a3
+          .  
+
+          ind ala n-aí antúaid alaile andess, 
+            67b22
+          . co n-accai in da 
+mnaí . . . indala n-ai brat úaine impe alaili brat corcra, 
+            <span><strong class="pop" style="color:blue" href="bibliography/LU" title="eDIL Bibliography">LU</strong></span>  
+
+            3285
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/SerC" title="eDIL Bibliography">SC</strong></span> § 8
+          ). elcuig indalanae, ruibidh alailiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> viii 
+105.11
+          . da fítt . . . inddala hí do tabirt do Día . . . araile do 
+tomailt fadein, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Mon.Tall." title="eDIL Bibliography">Mon. Tall.</strong></span> 161.10 (§ 80)
+          . Later also ala 
+(n-)aí: ar lēicse ala aí di arailiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/ZCP" title="eDIL Bibliography">ZCP</strong></span> xv 316 § 10
+          . ni frith ala 
+ai do thacru, 
+            354  § 42
+          . dá [n]dorus [n]-and—comla[e] ar ala 
+n-aí, clíath ar alailiu, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Cr&#xED;thGablach" title="eDIL Bibliography">Críth Gabl.</strong></span> 101
+          . bōthar, talla dā boin 
+fair .i. alanāi for fot alaile for tarsnae, 
+            <span><strong class="pop" style="color:blue" href="bibliography/Corm.Y" title="eDIL Bibliography">Corm. Y</strong></span> 1082
+           (
+            <span><strong class="pop" style="color:blue" href="bibliography/Anecd." title="eDIL Bibliography">Anecd.</strong></span>  
+
+            iv 96.17
+          ).</p>
+      
+     
+      <p class="result">  
+COMPDS. cosnamach fri hailecricha, 
+          <span><strong class="pop" style="color:blue" href="bibliography/&#xC9;riu" title="eDIL Bibliography">Ériu</strong></span> viii 173.28
+        . i 
+n-ailithír,  
+          <span><strong class="pop" style="color:blue" href="bibliography/Trip2" title="eDIL Bibliography">Trip.²</strong></span> 2033
+        . asna hailithírib <span class="ediltr">foreign countries</span>,  
+
+        
+          <span><strong class="pop" style="color:blue" href="bibliography/TTr.2" title="eDIL Bibliography">TTr.²</strong></span> 1747
+         (<span class="lbl">cf.</span> <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=ailithir">ailithir</a></span>). aile máthair, 
+          <span><strong class="pop" style="color:blue" href="bibliography/Sg." title="eDIL Bibliography">Sg.</strong></span> 152a2
+         (not treated as  
+compd. by 
+          <span><strong class="pop" style="color:blue" href="bibliography/Thurn.Gramm." title="eDIL Bibliography">Thurn. Gramm.</strong></span> § 394
+        . Perh. infl. by the Lat.  
+
+        <span class="frn ">altera mater</span>). See also <span class="ref"><a class="normal" href="search?search_in=headword&amp;q=1 aile C I (a)">C I (a)</a></span> above.</p>
+      </div></div><div class="row result spacer"><div class="col-sm-12"> </div></div>
+
+    	</div>
+
+        <footer class="footer hidden-sm hidden-xs">
+          <div class="container">
+            <p class="text-center">
+            <img style="padding-left: 10px;padding-top:5px;" src="http://dil.ie/img/AHRC.png" />
+            <img style="padding-left: 10px;padding-top:5px;" src="http://dil.ie/img/RIA.png" />
+            <img style="padding-left: 10px;padding-top:5px;" src="http://dil.ie/img/CAM.png" />
+            <img style="padding-left: 10px;padding-top:5px;" src="http://dil.ie/img/QUB.png" />
+            </p>
+          </div>
+        </footer>
+        
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-70268246-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+    </body>
+</html>
